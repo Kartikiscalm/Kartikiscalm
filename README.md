@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=404:+Greeting+Not+Found.+Jk,+Hii+Human;MY_NAME+=+"Kartik_Jayant";I_DABBLE_IN+=+"ML,+LLMs,+Algorithms";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=404:+Greeting+Not+Found.+Jk,+Hii+Human;MY_NAME+=+"Kartik_Jayant";I_DABBLE_IN+=+"ML+and+LLMs";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
 
 <!-- ./STAT -->
 <div align="center">  
