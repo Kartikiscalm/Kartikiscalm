@@ -1,4 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=404:+Greeting+Not+Found.+Jk,+Hii+Human;MY_NAME+=+"Kartik_Jayant";I_DABBLE_IN+=+"ML+and+LLMs";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=2000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello+User!;I'm+Kartik+Jayant;Do+checkout+my+work!)](https://git.io/typing-svg)
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Hi, I'm <b>Kartik Jayant</b>, a Second-Year B.Tech student in
+  <b>Artificial Intelligence and Data Science</b> at
+  <b>IIT Jodhpur</b>.
+</p>
+
+<p align="center">
+  Passionate about building intelligent systems, exploring modern AI technologies,
+  and continuously learning through hands-on projects.
+</p>
 
 <!-- ./STAT -->
 <div align="center">  
@@ -13,29 +26,43 @@
 </picture>
 
 
+### AI Interests:
+
+![LLMs](https://img.shields.io/badge/LLMs-00bfbf?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG-00bfbf?style=for-the-badge&logo=semanticweb&logoColor=white)&nbsp;
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00bfbf?style=for-the-badge&logo=robotframework&logoColor=white)&nbsp;
+![Retrieval Pipelines](https://img.shields.io/badge/Retrieval%20Pipelines-00bfbf?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
+![MLOps-00bfbf](https://img.shields.io/badge/MLOps-00bfbf?style=for-the-badge&logo=mlflow&logoColor=white)&nbsp;
+
+
 ### Code Languages:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![CPP](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 
-### Frameworks Used:
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117.svg?style=for-the-badge&logo=PyTorch&labelColor=0D1117)
+### Frameworks:
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
 
 
-### Database Used:
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&labelColor=0D1117)
-![Qdrant](https://img.shields.io/badge/Quadrant-0D1117.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<base64-encoded-Quadrant-logo>&labelColor=0D1117)
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![Qdrant](https://img.shields.io/badge/-Qdrant-0D1117?style=for-the-badge&logo=qdrant&labelColor=0D1117)&nbsp;
 
+
+### Cloud & Infra:
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-aws-0D1117?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
-![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
