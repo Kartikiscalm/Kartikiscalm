@@ -6,11 +6,7 @@
   Passionate about building, learning, and exploring the AI technologies shaping the future.
 </p>
 
-<!-- ./STAT -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kartikiscalm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kartikiscalm github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikiscalm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1116" />
-</div>
+
 <!-- ./STATS GRAPH  -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kartikiscalm/Kartikiscalm/output/github-snake-dark.svg" />
