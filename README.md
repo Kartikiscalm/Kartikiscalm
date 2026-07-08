@@ -32,6 +32,7 @@
 
 ### Frameworks:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-0D1117?style=for-the-badge&logo=langchain&labelColor=0D1117)&nbsp;
 
 
 ### Databases:
