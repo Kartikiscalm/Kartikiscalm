@@ -37,6 +37,7 @@
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Qdrant](https://img.shields.io/badge/-Qdrant-0D1117?style=for-the-badge&logo=qdrant&labelColor=0D1117)&nbsp;
 
 
@@ -44,6 +45,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
 
 
