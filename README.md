@@ -17,11 +17,11 @@
 
 ### AI Interests:
 
-![LLMs](https://img.shields.io/badge/LLMs-00bfbf?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/RAG-00bfbf?style=for-the-badge&logo=semanticweb&logoColor=white)&nbsp;
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00bfbf?style=for-the-badge&logo=robotframework&logoColor=white)&nbsp;
-![Retrieval Pipelines](https://img.shields.io/badge/Retrieval%20Pipelines-00bfbf?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
-![MLOps-00bfbf](https://img.shields.io/badge/MLOps-00bfbf?style=for-the-badge&logo=mlflow&logoColor=white)&nbsp;
+![LLMs](https://img.shields.io/badge/-LLMs-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117)&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-0D1117?style=for-the-badge&logo=semanticweb&labelColor=0D1117)&nbsp;
+![Retrieval Pipelines](https://img.shields.io/badge/-Retrieval%20Pipelines-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MLOps](https://img.shields.io/badge/-MLOps-0D1117?style=for-the-badge&logo=mlflow&labelColor=0D1117)&nbsp;
 
 
 ### Code Languages:
@@ -54,6 +54,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
+![Model Context Protocol](https://img.shields.io/badge/-Model%20Context%20Protocol-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
