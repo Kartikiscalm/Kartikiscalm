@@ -36,7 +36,6 @@
 
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Qdrant](https://img.shields.io/badge/-Qdrant-0D1117?style=for-the-badge&logo=qdrant&labelColor=0D1117)&nbsp;
 
