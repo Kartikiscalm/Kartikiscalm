@@ -59,6 +59,7 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
 ![Model Context Protocol](https://img.shields.io/badge/-Model%20Context%20Protocol-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 
 ### Frontend:
 
